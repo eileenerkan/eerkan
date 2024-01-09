@@ -1,4 +1,4 @@
 # eerkan
 My personal repository 
 
-👩‍💻 hi! i am learning MSCI 342
+👩‍💻 Hello, i am learning MSCI 342
